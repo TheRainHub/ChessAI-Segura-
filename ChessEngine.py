@@ -4,7 +4,7 @@ Databases
 
 """
 
-class GameBoard():
+class GameState():
    def __init__(self):
       #Board 8x8, the elements has two characyers b/w(represents chess color),
       #The second character represents the type of the piece 'K','Q','R','B', 'N', 'P',
